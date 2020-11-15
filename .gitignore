@@ -1,0 +1,6 @@
+venv/
+*.pyc
+*pid
+**/__pycache__/
+/.vscode/
+vue-element-admin/
